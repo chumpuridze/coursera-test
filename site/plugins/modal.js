@@ -1,0 +1,5 @@
+$.modal = function(options) {
+    return{
+        
+    }
+}
